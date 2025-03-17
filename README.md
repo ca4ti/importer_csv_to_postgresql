@@ -28,7 +28,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ## Licença
 
-Este projeto está licenciado sob a LICENCA_DO_PROJETO - veja o arquivo [LICENSE](LICENSE) para mais detalhs.
+Este projeto está licenciado sob a MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhs.
 
 ## Contato
 
