@@ -11,7 +11,7 @@ Este é um projeto para fazer importações de arquivos CSV diretamente a tabela
    `Ao executar , ele auto instala os módulos`
 
 3. Execute o projeto:  
-   `python iimporter_csv_to_postgresql.py`
+   `python importer_csv_to_postgresql.py`
 
 ## Contribukção
 
