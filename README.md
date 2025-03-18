@@ -13,7 +13,7 @@ Este é um projeto para fazer importações de arquivos CSV diretamente a tabela
 3. Execute o projeto:  
    `python importer_csv_to_postgresql.py`
 
-## Contribukção
+## Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo:
 
